@@ -183,7 +183,7 @@ dirs = "4"
 dynasm = "2.0"
 dynasmrt = "2.0"
 easy-ext = "0.2"
-ed25519-dalek = { version = "2.1.0", default-features = false }
+ed25519-dalek = { version = "2.1.1", default-features = false }
 enum-map = "2.1.0"
 enumset = "1.0"
 ethabi = "18"
@@ -365,7 +365,7 @@ testlib = { path = "test-utils/testlib" }
 test-log = { version = "0.2", default-features = false, features = ["trace"] }
 thiserror = "2.0"
 tikv-jemallocator = "0.5.0"
-time = { version = "0.3.9", default-features = false }
+time = { version = "0.3.37", default-features = false }
 tokio = { version = "1.28", default-features = false }
 tokio-stream = { version = "0.1.2", features = ["net"] }
 tokio-util = { version = "0.7.1", features = ["codec", "io"] }
