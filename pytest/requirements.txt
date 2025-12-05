@@ -19,6 +19,6 @@ scipy
 semver
 toml
 tqdm
-urllib3<2
+urllib3<3
 datetime
 jmespath
